@@ -2,9 +2,9 @@
 
 I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of Savannah, Georgia. 🌅🏝️🌊⛵🦐🐠🐙🐬🐚🩴
 
-🧩 My professional interests are rooted in **Back-End Engineering** and **Data Engineering**. I thrive on the challenges these fields offer, from constructing robust and efficient server-side architectures to unraveling complex data puzzles.
+🧩 My professional interests are rooted in **Back-End Engineering** and **Data Engineering**. I thrive on the challenges these fields offer, from constructing robust and efficient server-side architectures to unraveling complex data puzzles. In particular, I have a keen interest in exploring API documentations(!) and enjoy uncovering the secrets and potentials hidden behind each key, delving into the depths of accessible information.
 
-🎨 At the same time, I am adept in **Front-End Development** which enables me to create seamless, user-friendly interfaces to complement back-end systems. 
+🎨 At the same time, I am adept in **Front-End Development** which enables me to create seamless, user-friendly interfaces to complement back-end systems. This skill set allows me to bridge the gap between server and client-side, integrating functionality with aesthetics for a cohesive user experience.
 
 ⚙️ I am deeply committed to delivering an end-to-end experience in my applications, ensuring they are as efficient and reliable on the inside as they are intuitive and appealing on the outside.
 
