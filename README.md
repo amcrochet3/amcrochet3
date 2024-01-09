@@ -20,6 +20,7 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60"/>&nbsp;
@@ -32,7 +33,6 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title"React" alt="React" width="60" height="60">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
@@ -40,7 +40,7 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 - **Full-Stack:** [architexture](https://github.com/amcrochet3/architexture.git), [AmBeyoncé](https://github.com/amcrochet3/ambeyonce.git)
 - **Back-End/Data Engineering:** [Estate Sphere](https://github.com/amcrochet3/estate-sphere.git), [Card Shuffler](https://github.amcrochet3/card-shuffler.git)
-- **Front-End:** [Flux-Us](https://github.com/amcrochet3/flux-us.git), [Florabelle](https://github.com/amcrochet3/florabelle.git)
+- **Front-End:** [Florabelle](https://github.com/amcrochet3/florabelle.git)
 
 ## ⚡ Fun Facts
 
