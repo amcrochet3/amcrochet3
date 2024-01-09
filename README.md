@@ -14,13 +14,12 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 🦄 I hold an **M.S. in Digital Media, specializing in UX Design, from Georgia Tech**, and in June 2023, I completed **Hackbright Academy**'s intensive software engineering fellowship program. This diverse educational journey enables me to tackle coding challenges with an approach that seamlessly **integrates technical acumen with creative problem-solving**-- a rare and valuable perspective in the industry.
 
-💼 Before pivoting into tech, I garnered a variety of experiences, working in freelance and internship roles. These positions ranged from copywriting and scriptwriting to content creation and UX design, further enriching my skillset and understanding of diverse professional environments.
+💼 Before pivoting into tech, I garnered a variety of experiences working in freelance creative roles, primarily with academic and startup companies. These positions ranged from copywriting and scriptwriting to content creation and UX/UI design, further enriching my skillset and understanding of diverse professional environments.
 
 ## 💻 Tech Stack
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="60" height="60"/>&nbsp;
@@ -33,11 +32,18 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title"React" alt="React" width="60" height="60">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="NGINX" alt="NGINX" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
+## 📐 Projects
+
+- **Full-Stack:** [architexture](https://github.com/amcrochet3/architexture.git), [AmBeyoncé](https://github.com/amcrochet3/ambeyonce.git)
+- **Back-End/Data Engineering:** [Estate Sphere](https://github.com/amcrochet3/estate-sphere.git), [Card Shuffler](https://github.amcrochet3/card-shuffler.git)
+- **Front-End:** [Flux-Us](https://github.com/amcrochet3/flux-us.git), [Florabelle](https://github.com/amcrochet3/florabelle.git)
+
 ## ⚡ Fun Facts
 
-- I have been a cinephile since high school, and I also hold an **M.A. in Film Theory from SCAD** 🎞️🍿 My favroite movements include the French New Wave, the Czechoslovak New Wave, and feminist cinema, while Jean-Luc Godard, Agnès Varda, Chantal Akerman, and Věra Chytilová are among my favorite directors. I own over 100 Criterion Collection edition DVDs! 📀📽️
+- I have been a cinephile since I was a teenager, and I also hold an **M.A. in Film Theory from SCAD** 🎞️🍿 My favroite movements include the French New Wave, the Czechoslovak New Wave, and feminist cinema, while Jean-Luc Godard, Agnès Varda, Chantal Akerman, and Věra Chytilová are among my favorite directors. I own over 100 Criterion Collection edition DVDs! 📀📽️
 - As an undergraduate, I participated in the **Humanities, Arts, Science, & Technology Alliance and Collaboratory (HASTAC)** scholarship program during which I produced a portfolio of blog posts related to digital culture. You can read my archived publications [here](https://hastac.hcommons.org/members/amcrochet/). 📝📼
 - My favorite ice cream flavor is moose tracks. 🍦🫎
