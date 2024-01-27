@@ -31,12 +31,11 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title"React" alt="React" width="60" height="60">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
 ## 📐 Projects
 
-  - 🏛️🌎 __*[architexture.](https://github.com/amcrochet3/architexture.git)*__: A Flask application leveraging the Google Geocoding API to present a user-curated database of global architectural structures
+  - 🏛️🌎 __*[Architexture](https://github.com/amcrochet3/architexture.git)*__: A Flask application leveraging the Google Geocoding API to present a user-curated database of global architectural structures
   - 🎵🌦️ __*[AmBeyoncé](https://github.com/amcrochet3/ambeyonce.git)*__: A Django application that dynamically recommends music tracks based on a user's local weather conditions
   - 🌸👗 __*[Florabelle](https://github.com/amcrochet3/florabelle.git)*__: A mock eCommerce platform for an eco-conscious fashion brand built with React.js 
 
