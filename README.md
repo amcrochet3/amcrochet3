@@ -12,7 +12,7 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 🌈 **My interdisciplinary background and my long-held interest in the nexus of technology and creativity.** 🌈 
 
-🦄 I hold an **M.S. in Digital Media, specializing in UX Design, from Georgia Tech**, and in June 2023, I completed **Hackbright Academy**'s intensive software engineering fellowship program. This diverse educational journey enables me to tackle coding challenges with an approach that seamlessly **integrates technical acumen with creative problem-solving**-- a rare and valuable perspective in the industry.
+🦄 I hold an **M.S. in Digital Media, specializing in UX Design, from Georgia Tech**, and in June 2023, I completed **Hackbright Academy's immersive software engineering fellowship**. This diverse educational journey enables me to tackle coding challenges with an approach that seamlessly **integrates technical acumen with creative problem-solving**-- a rare and valuable perspective in the industry.
 
 💼 Before pivoting into tech, I garnered a variety of experiences working in freelance creative roles, primarily with academic and startup companies. These positions ranged from copywriting and scriptwriting to content creation and UX/UI design, further enriching my skillset and understanding of diverse professional environments.
 
