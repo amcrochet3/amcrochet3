@@ -16,7 +16,7 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 💼 Before pivoting into tech, I garnered a variety of experiences working in freelance creative roles, primarily with academic and startup companies. These positions ranged from copywriting and scriptwriting to content creation and UX/UI design, further enriching my skillset and understanding of diverse professional environments.
 
-📚 For more on my academic and professional background, check out my personal website **[here]**(https://amcrochet3.github.io/amcrochet-portfolio/)
+📚 For more on my academic and professional background, check out my personal website **[here](https://amcrochet3.github.io/amcrochet-portfolio/)**
 
 ## 💻 Tech Stack
 
