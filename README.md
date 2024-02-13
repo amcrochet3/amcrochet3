@@ -16,6 +16,8 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 💼 Before pivoting into tech, I garnered a variety of experiences working in freelance creative roles, primarily with academic and startup companies. These positions ranged from copywriting and scriptwriting to content creation and UX/UI design, further enriching my skillset and understanding of diverse professional environments.
 
+📚 For more on my academic and professional background, check out my personal website **[here]**(https://amcrochet3.github.io/amcrochet-portfolio/)
+
 ## 💻 Tech Stack
 
 <div>
@@ -43,4 +45,5 @@ I am a **Full-Stack Software Engineer** hailing from the scenic coastal city of 
 
 - I have been a cinephile since I was a teenager, and I also hold an **M.A. in Film Theory from SCAD** 🎞️🍿 My favroite movements include the French New Wave, feminist, avant-garde, and collage cinema, while Jean-Luc Godard, Agnès Varda, and Chantal Akerman are among my favorite directors. I own over 100 Criterion Collection edition DVDs! 📀📽️
 - As an undergraduate, I participated in the **Humanities, Arts, Science, & Technology Alliance and Collaboratory (HASTAC)** scholarship program during which I produced a portfolio of blog posts related to digital culture. You can read my archived publications [here](https://hastac.hcommons.org/members/amcrochet/). 📝📼
+- I've played the piano for over 20 years. My favorite composers are Grieg, Clementi, and Burgmüller, while my favorite genre to play is ragtime. 🎹🎩
 - My favorite ice cream flavor is moose tracks. 🍦🫎
